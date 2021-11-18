@@ -1,2 +1,2 @@
-# bot
-# This is a Instagram bot to search for the opening the given hashtags and liking, commenting and following the post. It can be used by small businesses to increase their presence among customers
+# Instabot
+### This is an Instagram bot to search for the given hashtags and then liking, commenting and following the posts. It could be used by small businesses to increase their presence among customers.
